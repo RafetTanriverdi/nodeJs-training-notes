@@ -5,4 +5,4 @@ function CircleArea(radius) {
   let result = Area.toFixed(2);
   return result;
 }
-console.log('Radius: ',arguments[0],',','Area:',CircleArea(arguments[0])); // 153.93804002589985
+console.log('Radius: ',arguments[0],',','Area:',CircleArea(arguments[0]));
